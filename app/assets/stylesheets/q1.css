@@ -1,5 +1,5 @@
 .nazotoki1-0{
-  font-size: 30px;
+  font-size: 25px;
   z-index: 30;
 }
 
@@ -81,4 +81,13 @@ left: 250px;
 }
 .modoru1 a{
   font-size: 20px;
+}
+.clear1 {
+  text-align: center;
+
+}
+.clear1 a{
+  text-align: center;
+  font-size: 50px;
+  font-family: "Yusei Magic";
 }
