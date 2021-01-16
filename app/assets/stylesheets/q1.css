@@ -6,14 +6,10 @@
 .q1_1{
   display: flex;
 }
-.q1_1_1{
-}
+
 
 .q1_1_2{
   margin-top: 100px;
-}
-
-.q1_1_3{
 }
 
 .q1_1_4{
@@ -67,13 +63,13 @@ left: 250px;
   justify-content: space-around;
 }
 .q1_4_1{
-  position: relative
+  position: relative;
 }
 .q1_4_answer a{
   position: absolute;
   top: 150px;
   right: 130px;
-  font-size: 2px
+  font-size: 2px;
 }
 
 .modoru1{

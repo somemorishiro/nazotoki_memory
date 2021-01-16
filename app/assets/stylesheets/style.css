@@ -15,7 +15,7 @@
   font-size: 40px;
   font-family: "Yusei Magic";
 }
-]
+
 
 .nanido{
   font-size: 15px;
@@ -30,8 +30,7 @@
 
 
 }
-.middle_content{
-}
+
 
 .nazotoki_img{
   display: inline-block;
@@ -82,7 +81,7 @@ text-align: center;
   height: 1000px;
   text-align: center;
   margin: 0px auto;
-  background-image: url(https://beiz.jp/images_L/paper/paper_00108.jpg)
+  background-image: url(https://beiz.jp/images_L/paper/paper_00108.jpg);
 }
 
 .contents p{
